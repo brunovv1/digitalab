@@ -6,19 +6,19 @@ import { BiUser } from "react-icons/bi"
 export const home = [
   {
     icon: <AiOutlineCalendar size={25} />,
-    title: "10+ years of market experience",
+    title: "Criação de cronograma de conteúdo para as redes sociais com posts programados",
   },
   {
     icon: <TfiRulerPencil size={25} />,
-    title: "Unique technologies & modern approach ",
+    title: "Criação e edição de identidade visual ",
   },
   {
     icon: <VscFileSubmodule size={25} />,
-    title: "100+ cuccessful cases in portfolio",
+    title: "Portfólio e Trabalhos já realizados",
   },
   {
     icon: <BiUser size={25} />,
-    title: "Customer satisfaction is our top priority",
+    title: "Nossos Clientes e Parceiros",
   },
 ]
 export const expertise = [

@@ -21,11 +21,11 @@ const Agency = () => {
               <div className='grid-3'>
                 <div className='box'>
                   <h1 className='indigo'>10+</h1>
-                  <h3>Years of experience</h3>
+                  <h3>Anos de experiência</h3>
                 </div>
                 <div className='box'>
                   <h1 className='indigo'>50+</h1>
-                  <h3>Successful cases</h3>
+                  <h3>Casos de sucesso</h3>
                 </div>
                 <div className='box'>
                   <h1 className='indigo'>12+</h1>

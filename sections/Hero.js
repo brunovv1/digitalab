@@ -13,7 +13,9 @@ const Hero = () => {
       <section className='hero'>
         <div className='container'>
           <TitleLogo title='digitalab' className='logobg' />
-          <h1 className='hero-title'>NÓS CRIAMOS EXPERIÊNCIAS DIGITAIS</h1>
+          <h1 className='hero-title'>NÓS CRIAMOS EXPERIÊNCIAS DIGITAIS<br>
+          Nós criamos conteúdo de valor
+          </br></h1>
 
           <div className='sub-heading'>
             <TitleSm title='WEBSITES' /> <span>.</span>
@@ -26,7 +28,7 @@ const Hero = () => {
         <div className='container'>
           <div className='heading-title'>
             <Title title='A última agência digital que você vai precisar' />
-            <p>Suspendisse ut magna porttitor, sollicitudin ligula at, molestie dolor. Vivamus a ligula ut velit placerat egestas at id leo. Nulla ac volutpat nunc. Nulla facilisi. Pellentesque tempus tellusut magna porttitor scelerisque.</p>
+            <p>Somos um laboratório de marketing com conteúdo voltado para área da saúde, especializado em consultórios, perfis profissionais, farmácias, drogarias, distribuidoras e laboratórios.</p>
           </div>
           <div className='hero-content grid-4'>
             {home.map((item, i) => (
