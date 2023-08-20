@@ -13,10 +13,9 @@ const Hero = () => {
       <section className='hero'>
         <div className='container'>
           <TitleLogo title='digitalab' className='logobg' />
-          <h1 className='hero-title'>NÓS CRIAMOS EXPERIÊNCIAS DIGITAIS<br>
-          Nós criamos conteúdo de valor
-          </br></h1>
-
+          <h1 className='hero-title'>NÓS CRIAMOS EXPERIÊNCIAS DIGITAIS</h1>
+          <h3>Nós criamos conteúdo de valor</h3>
+          
           <div className='sub-heading'>
             <TitleSm title='WEBSITES' /> <span>.</span>
             <TitleSm title='BRANDING' /> <span>.</span>
